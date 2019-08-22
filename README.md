@@ -1,2 +1,2 @@
 # Python Programs
-Repository for practice programs using python3.
+Repository for practice programs using Python 3.
